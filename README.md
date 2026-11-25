@@ -1,6 +1,10 @@
 # js-c-js
 
-This project uses [QuickJS JavaScript Engine](https://bellard.org/quickjs/) and his license is MIT License.
+Run JavaScript in browser by using C driven JavaScript
+
+## Third party software notice
+
+> This project uses [QuickJS JavaScript Engine](https://bellard.org/quickjs/) and his license is MIT License.
 
 ```
 QuickJS is released under the MIT license.
@@ -10,4 +14,4 @@ Unless otherwise specified, the QuickJS sources are copyright Fabrice Bellard an
 
 ## License
 
-[Apache-2.0 License](./LICENSE)
+[MIT License](./LICENSE)
